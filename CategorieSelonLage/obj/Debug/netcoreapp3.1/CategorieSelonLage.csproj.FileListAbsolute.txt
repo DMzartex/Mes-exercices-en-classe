@@ -1,0 +1,13 @@
+C:\Users\190478\Desktop\CategorieSelonLage\bin\Debug\netcoreapp3.1\CategorieSelonLage.exe
+C:\Users\190478\Desktop\CategorieSelonLage\bin\Debug\netcoreapp3.1\CategorieSelonLage.deps.json
+C:\Users\190478\Desktop\CategorieSelonLage\bin\Debug\netcoreapp3.1\CategorieSelonLage.runtimeconfig.json
+C:\Users\190478\Desktop\CategorieSelonLage\bin\Debug\netcoreapp3.1\CategorieSelonLage.runtimeconfig.dev.json
+C:\Users\190478\Desktop\CategorieSelonLage\bin\Debug\netcoreapp3.1\CategorieSelonLage.dll
+C:\Users\190478\Desktop\CategorieSelonLage\bin\Debug\netcoreapp3.1\CategorieSelonLage.pdb
+C:\Users\190478\Desktop\CategorieSelonLage\obj\Debug\netcoreapp3.1\CategorieSelonLage.csprojAssemblyReference.cache
+C:\Users\190478\Desktop\CategorieSelonLage\obj\Debug\netcoreapp3.1\CategorieSelonLage.AssemblyInfoInputs.cache
+C:\Users\190478\Desktop\CategorieSelonLage\obj\Debug\netcoreapp3.1\CategorieSelonLage.AssemblyInfo.cs
+C:\Users\190478\Desktop\CategorieSelonLage\obj\Debug\netcoreapp3.1\CategorieSelonLage.csproj.CoreCompileInputs.cache
+C:\Users\190478\Desktop\CategorieSelonLage\obj\Debug\netcoreapp3.1\CategorieSelonLage.dll
+C:\Users\190478\Desktop\CategorieSelonLage\obj\Debug\netcoreapp3.1\CategorieSelonLage.pdb
+C:\Users\190478\Desktop\CategorieSelonLage\obj\Debug\netcoreapp3.1\CategorieSelonLage.genruntimeconfig.cache
