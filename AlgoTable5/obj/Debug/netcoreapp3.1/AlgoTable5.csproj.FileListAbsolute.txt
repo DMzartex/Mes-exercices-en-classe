@@ -1,0 +1,13 @@
+C:\Users\190478\Desktop\AlgoTable5\bin\Debug\netcoreapp3.1\AlgoTable5.exe
+C:\Users\190478\Desktop\AlgoTable5\bin\Debug\netcoreapp3.1\AlgoTable5.deps.json
+C:\Users\190478\Desktop\AlgoTable5\bin\Debug\netcoreapp3.1\AlgoTable5.runtimeconfig.json
+C:\Users\190478\Desktop\AlgoTable5\bin\Debug\netcoreapp3.1\AlgoTable5.runtimeconfig.dev.json
+C:\Users\190478\Desktop\AlgoTable5\bin\Debug\netcoreapp3.1\AlgoTable5.dll
+C:\Users\190478\Desktop\AlgoTable5\bin\Debug\netcoreapp3.1\AlgoTable5.pdb
+C:\Users\190478\Desktop\AlgoTable5\obj\Debug\netcoreapp3.1\AlgoTable5.csprojAssemblyReference.cache
+C:\Users\190478\Desktop\AlgoTable5\obj\Debug\netcoreapp3.1\AlgoTable5.AssemblyInfoInputs.cache
+C:\Users\190478\Desktop\AlgoTable5\obj\Debug\netcoreapp3.1\AlgoTable5.AssemblyInfo.cs
+C:\Users\190478\Desktop\AlgoTable5\obj\Debug\netcoreapp3.1\AlgoTable5.csproj.CoreCompileInputs.cache
+C:\Users\190478\Desktop\AlgoTable5\obj\Debug\netcoreapp3.1\AlgoTable5.dll
+C:\Users\190478\Desktop\AlgoTable5\obj\Debug\netcoreapp3.1\AlgoTable5.pdb
+C:\Users\190478\Desktop\AlgoTable5\obj\Debug\netcoreapp3.1\AlgoTable5.genruntimeconfig.cache
